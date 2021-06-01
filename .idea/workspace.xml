@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3fc398d0-d761-433b-91e9-a692ef4762fa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1rdBtLSSndJy3P7WHC09PtwsGxC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="D:/classe" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mushroomhead\AndroidStudioProjects\flutter_app\android\app" />
+      <recent name="C:\Users\mushroomhead\AndroidStudioProjects\flutter_app\android" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3fc398d0-d761-433b-91e9-a692ef4762fa" name="Default Changelist" comment="" />
+      <created>1619296302629</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619296302629</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="150" y="97" width="1129" height="574" key="AVDManager" timestamp="1619413675967">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="AVDManager/0.0.1366.728@0.0.1366.728" timestamp="1619299775788" />
+    <state x="92" y="97" width="1182" height="574" key="AVDManager/0.0.1366.768@0.0.1366.768" timestamp="1619386903869" />
+    <state x="150" y="97" width="1129" height="574" key="AVDManager/62.0.1304.768@62.0.1304.768" timestamp="1619413675967" />
+    <state x="529" y="105" width="743" height="499" key="EnvironmentVariablesDialog" timestamp="1619297893364">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="529" y="105" width="743" height="499" key="EnvironmentVariablesDialog/0.0.1366.728@0.0.1366.728" timestamp="1619297893364" />
+    <state x="494" y="139" key="FileChooserDialogImpl" timestamp="1622556478189">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="494" y="139" key="FileChooserDialogImpl/62.0.1304.768@62.0.1304.768" timestamp="1622556478189" />
+    <state width="1261" height="248" key="GridCell.Tab.0.bottom" timestamp="1622558743032">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1323" height="184" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1619387411437" />
+    <state width="1261" height="248" key="GridCell.Tab.0.bottom/62.0.1304.768@62.0.1304.768" timestamp="1622558743032" />
+    <state width="1261" height="248" key="GridCell.Tab.0.center" timestamp="1622558743028">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1323" height="184" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1619387411437" />
+    <state width="1261" height="248" key="GridCell.Tab.0.center/62.0.1304.768@62.0.1304.768" timestamp="1622558743028" />
+    <state width="1261" height="248" key="GridCell.Tab.0.left" timestamp="1622558743028">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1323" height="184" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1619387411436" />
+    <state width="1261" height="248" key="GridCell.Tab.0.left/62.0.1304.768@62.0.1304.768" timestamp="1622558743028" />
+    <state width="1261" height="248" key="GridCell.Tab.0.right" timestamp="1622558743028">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1323" height="184" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1619387411437" />
+    <state width="1261" height="248" key="GridCell.Tab.0.right/62.0.1304.768@62.0.1304.768" timestamp="1622558743028" />
+    <state x="218" y="0" key="SettingsEditor" timestamp="1622486469009">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1619297900657" />
+    <state x="218" y="0" key="SettingsEditor/62.0.1304.768@62.0.1304.768" timestamp="1622486469009" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/main.dart</url>
+          <line>110</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
